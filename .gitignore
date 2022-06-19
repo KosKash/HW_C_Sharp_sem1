@@ -1,11 +1,2 @@
-\]Ex_1\bin 
-\Ex_1\obj 
-\Ex_2\bin 
-\Ex_2\obj 
-\Ex_3\bin 
-\Ex_3\obj 
-\Ex_3_version2\bin 
-\Ex_3_version2\obj 
-\Ex_4\bin 
-\Ex_4\obj 
-.vscode
+bin
+obj
